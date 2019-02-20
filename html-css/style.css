@@ -1,0 +1,20 @@
+.menu_vertical {
+    display: flex;
+    flex-direction: column;
+}
+
+span {
+    background-color: #D5B0AC;
+    color: green;
+    display: flex;
+    width: 100px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1px;
+}
+
+span:hover {
+    background-color: #9CD08F;
+    color: #FFFFFF;
+}
